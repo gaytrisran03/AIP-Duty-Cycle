@@ -8,7 +8,7 @@ Welcome to the Admission Interaction Process (AIP) Website repository! This webs
 
 The Admission Interaction Process (AIP) Website serves as a centralized platform to manage and track the admission process for our college. It provides a seamless interaction between prospective students and college staff, simplifying the application, evaluation, and admission decision-making process.
 
-![Main page](./welcome.jpg)
+![Main page](/welcome.png)
 
 ## Contributed by
 -----------
